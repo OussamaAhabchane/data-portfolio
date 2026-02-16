@@ -1,0 +1,70 @@
+# ============================================
+# GLOBAL REQUIREMENTS - Data Science Portfolio
+# ============================================
+
+# Core Data Science
+pandas>=1.3.0
+numpy>=1.21.0
+scipy>=1.7.0
+
+# Machine Learning
+scikit-learn>=1.0.0
+xgboost>=1.5.0
+lightgbm>=3.3.0
+catboost>=1.0.0
+
+# Deep Learning (optional)
+# torch>=1.9.0
+# tensorflow>=2.8.0
+
+# Imbalanced Data
+imbalanced-learn>=0.9.0
+
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+plotly>=5.0.0
+
+# NLP
+nltk>=3.6
+spacy>=3.2.0
+gensim>=4.1.0
+textblob>=0.17.0
+vaderSentiment>=3.3.2
+transformers>=4.20.0
+wordcloud>=1.8.0
+
+# Topic Modeling
+pyLDAvis>=3.3.0
+
+# Financial Data
+yfinance>=0.2.0
+ta>=0.10.0  # Technical analysis
+
+# Explainability
+shap>=0.41.0
+lime>=0.2.0
+
+# Utilities
+jupyter>=1.0.0
+notebook>=6.4.0
+jupyterlab>=3.2.0
+tqdm>=4.62.0
+requests>=2.26.0
+python-dotenv>=0.19.0
+joblib>=1.1.0
+
+# Data formats
+openpyxl>=3.0.9
+xlrd>=2.0.1
+
+# Development
+pytest>=6.2.5
+black>=21.12b0
+flake8>=4.0.1
+mypy>=0.931
+
+# Optional: For production deployment
+# fastapi>=0.70.0
+# uvicorn>=0.15.0
+# streamlit>=1.15.0
