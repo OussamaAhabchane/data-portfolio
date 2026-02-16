@@ -166,8 +166,8 @@ MIT License - Libre d'utilisation pour l'apprentissage et portfolio professionne
 
 ## 👤 Contact
 
-- **GitHub** : [OussamaAhabchane]
-- **LinkedIn** : [https://www.linkedin.com/in/oussama-ahabchane/]
+- **GitHub** : OussamaAhabchane
+- **LinkedIn** : https://www.linkedin.com/in/oussama-ahabchane/
 - **Email** : oussama.ahabchane@outlook.com
 
 ---
