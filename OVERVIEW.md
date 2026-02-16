@@ -1,9 +1,5 @@
 # 📊 Portfolio Data Science Python - Vue d'Ensemble
 
-## 🎉 Félicitations ! Votre portfolio est prêt !
-
-Vous disposez maintenant d'un **portfolio professionnel complet** avec 4 projets data science couvrant Finance et NLP.
-
 ---
 
 ## 📁 Structure Complète
