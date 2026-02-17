@@ -2,7 +2,7 @@
 
 ## 📦 Contenu du Portfolio
 
-Vous avez maintenant **4 projets complets** prêts à être utilisés :
+**4 projets complets** prêts à être utilisés :
 
 ### 1️⃣ Stock Sentiment Prediction (Finance + NLP)
 - **Thématique** : Analyse de sentiment financier et prédiction de prix
